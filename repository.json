@@ -1,0 +1,12 @@
+{
+	"author": "Yonatan Striem Amit",
+	"gitHubUrl": "https://github.com/yonatan-mitmit",
+	"packages": [
+		{
+			"name": "Anthem MRX x40 Driver",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/yonatan-mitmit/HubitatAnthem/main/packageManifest.json",
+			"description": "Driver for Anthem MRX x40 Receivers"
+		}
+	]
+}
